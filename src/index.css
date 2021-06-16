@@ -1,0 +1,36 @@
+/*Add your Global Styles here*/
+.navbar-style {
+    background-color: royalblue !important;
+  }
+  
+  .tbl-even-background{
+    background-color: aliceblue;
+  }
+
+  .tbl-odd-background{
+    background-color: aquamarine;
+  }
+
+  .title{
+    color:royalblue;
+    margin: 5px;
+    padding: 5px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+
+
+  .hand-icon {
+    cursor: pointer;
+  }
+
+  .card-img {
+    width: 200px;
+    height: 200px;
+    object-fit: scale-down;
+}
+
+.nav-link.active {
+  border-bottom: 1px solid #ffffff;
+}
+  

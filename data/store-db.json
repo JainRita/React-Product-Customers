@@ -1,0 +1,99 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Packard Bell iMedia A3317",
+      "price": 22000,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "productName": "HP Pavilion Slimline",
+      "price": 35000,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "productName": "Advent AIO-200",
+      "price": 65300,
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "productName": "HP TouchSmart",
+      "price": 85900,
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "productName": "Compaq Presario",
+      "price": 35700,
+      "quantity": 0
+    },
+    {
+      "id": 6,
+      "productName": "Lenova V15 Intel",
+      "price": 42000,
+      "quantity": 0
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@capgemini.com",
+      "password": "admin@123"
+    },
+    {
+      "id": 2,
+      "email": "karthik@capgemini.com",
+      "password": "karthik@123"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Karthik",
+      "phone": "+91-9986173092",
+      "address": {
+        "city": "Bengaluru"
+      },
+      "photo": "https://picsum.photos/id/1/60"
+    },
+    {
+      "name": "Ganesh",
+      "address": {
+        "city": "Mumbai"
+      },
+      "phone": "+91-9986173093",
+      "photo": "https://picsum.photos/id/2/60",
+      "id": 2
+    },
+    {
+      "name": "Veena",
+      "address": {
+        "city": "Pune"
+      },
+      "phone": "+91-9986173094",
+      "photo": "https://picsum.photos/id/3/60",
+      "id": 3
+    },
+    {
+      "name": "Anil",
+      "address": {
+        "city": "Mumbai"
+      },
+      "phone": null,
+      "photo": "https://picsum.photos/id/4/60",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Vaishali",
+      "phone": null,
+      "address": {
+        "city": "Pune"
+      },
+      "photo": "https://picsum.photos/id/5/60"
+    }
+  ]
+}
